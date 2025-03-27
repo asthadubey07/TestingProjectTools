@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestingprojectforRtools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21bdb6ae82893c8ca32f6fca42f0dad08db6ce73")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestingprojectforRtools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestingprojectforRtools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

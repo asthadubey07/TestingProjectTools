@@ -48,3 +48,5 @@ C:\tools\TestingprojectforRtools\obj\Debug\net8.0\refint\TestingprojectforRtools
 C:\tools\TestingprojectforRtools\obj\Debug\net8.0\TestingprojectforRtools.pdb
 C:\tools\TestingprojectforRtools\obj\Debug\net8.0\TestingprojectforRtools.genruntimeconfig.cache
 C:\tools\TestingprojectforRtools\obj\Debug\net8.0\ref\TestingprojectforRtools.dll
+C:\tools\TestingprojectforRtools\obj\Debug\net8.0\TestingprojectforRtools.sourcelink.json
+C:\tools\TestingprojectforRtools\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
